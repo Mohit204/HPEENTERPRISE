@@ -47,9 +47,10 @@ I am going  with five tables :
   
   2)Reply to a comment
   
-  http://localhost:8080/HPEENTERPRISE/hpe/reply/comment/ [POST]
+  http://localhost:8080/HPEENTERPRISE/hpe/reply/comment/
+  [POST]
   
-  Sample Request Body ->
+   Sample Request Body ->
    {
 	 "commentId":1,
 	 "userId":1,
