@@ -62,7 +62,9 @@ I am going  with five tables :
     ReplyId : 4 (Successfull creation of Reply entity in system)
   
   
-  3)http://localhost:8080/HPEENTERPRISE/hpe/allCommentsWithReplies/{order_id} [GET]
+  3)Getting all comments with replies in system based on order :
+  
+  http://localhost:8080/HPEENTERPRISE/hpe/allCommentsWithReplies/{order_id} [GET]
   
   Sample Response : 
     [
