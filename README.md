@@ -2,6 +2,7 @@
 HPEENTERPRISE
 
 DataBase Design :
+
 I am going  with five tables :
  1)Buisness User[User Table]
  2)Comment Table
@@ -9,6 +10,20 @@ I am going  with five tables :
  4)Reply Table
  5)Customer Table
  
+ 
+ Project Package Design :
+ 
+1)endpoints:
+   All resources will be in this package
+
+2)bl :
+ All the business logic things will be here 
+ 
+3)entities :
+  All DB related hibernate beans will be here
+
+4)models:
+ All multipurpose java beans will be here 
  
  
  
