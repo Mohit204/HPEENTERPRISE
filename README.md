@@ -39,12 +39,14 @@ I am going  with five tables :
 	 "text" : "Thanks for hardware update"
 	}
   
-  Sample Response : 
+ 
+ Sample Response : 
     ReplyId : 4 (Successfull creation of Reply entity in system)
   
   
   3)http://localhost:8080/HPEENTERPRISE/hpe/allCommentsWithReplies/{order_id} [GET]
-  Example Response : 
+  
+  Sample Response : 
     [
     {
         "comment": {
