@@ -2,7 +2,7 @@
 HPEENTERPRISE
 
 DataBase Design :
-I am going  with four tables :
+I am going  with five tables :
  1)Buisness User[User Table]
  2)Comment Table
  3)Order Table
@@ -10,7 +10,10 @@ I am going  with four tables :
  5)Customer Table
  
  
+ 
+ 
  Will attach Database design snapshot in email.
+ Postman Collection also attached in email.
 
   Rest End points :
   
