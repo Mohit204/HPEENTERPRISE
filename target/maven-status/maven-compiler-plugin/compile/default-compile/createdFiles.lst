@@ -1,7 +1,6 @@
 com/hpe/enterprise/bl/EnterpriseService.class
 com/hpe/enterprise/entities/Comment.class
 com/hpe/enterprise/entities/Customer.class
-com/hpe/enterprise/entities/Testd.class
 com/hpe/enterprise/endpoints/EnterpriseEndPoints.class
 com/hpe/enterprise/entities/Order.class
 com/hpe/enterprise/entities/Reply.class
